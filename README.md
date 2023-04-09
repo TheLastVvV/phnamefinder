@@ -7,12 +7,18 @@ OSINT Phone Number Finder
 # About:
   OSINT : find names connected to any phone number
 # Usage :
-ruby main.rb
-1- enter country code from list or any other country code for example:US
-2- enter the phone number for example
-+90 212 555 1212
-country code +90   = TR
-phone number:2125551212
+``ruby main.rb``  
+
+1- Enter country code from list or any other country code for example:US  
+
+2- Enter the phone number for example  
+
++90 212 555 1212  
+
+Country code +90   = TR  
+
+Phone number:2125551212  
+
 
 ``
 Enter the country code: TR `` 
