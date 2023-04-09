@@ -15,13 +15,13 @@ country code +90   = TR
 phone number:2125551212
 
 ``
-Enter the country code: TR  
+Enter the country code: TR `` 
 
-Enter the phone number: 2125551212  
+``Enter the phone number: 2125551212``  
 
-Done | Results written to output.txt  
+``Done | Results written to output.txt``  
 
-cat output.txt ``
+``cat output.txt ``
 
 
 
