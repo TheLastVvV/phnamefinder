@@ -1,5 +1,5 @@
 # phnamefinder
-OSINT Phone Number Finder
+OSINT  find names associated to any phone number
 
  ![image](rubyimage.jpg)
 
